@@ -1,0 +1,10 @@
+{
+  "nav": { "about": "About", "skills": "Skills", "projects": "Projects", "experience": "Experience", "contact": "Contact" },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full-stack / Backend Developer",
+    "tagline": "I build end-to-end web applications with ASP.NET Core, Node.js and FastAPI.",
+    "viewProjects": "View projects",
+    "downloadCv": "Download CV"
+  }
+}

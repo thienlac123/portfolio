@@ -1,0 +1,10 @@
+{
+  "nav": { "about": "Giới thiệu", "skills": "Kỹ năng", "projects": "Dự án", "experience": "Kinh nghiệm", "contact": "Liên hệ" },
+  "hero": {
+    "greeting": "Xin chào, mình là",
+    "role": "Lập trình viên Full-stack / Backend",
+    "tagline": "Mình xây dựng ứng dụng web hoàn chỉnh với ASP.NET Core, Node.js và FastAPI.",
+    "viewProjects": "Xem dự án",
+    "downloadCv": "Tải CV"
+  }
+}
